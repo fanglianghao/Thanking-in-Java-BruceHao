@@ -1,2 +1,2 @@
-# Thanking-in-Java-BruceHao
+# Thinking-in-Java-BruceHao
 java exercises
